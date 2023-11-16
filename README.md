@@ -1,7 +1,5 @@
 # CVE Updates Repository
 
-![CVE Logo](link-to-cve-logo.png)
-
 This repository contains a regularly updated list of Common Vulnerabilities and Exposures (CVE) sourced from the National Vulnerability Database (NVD). The CVEs are provided in JSON format for easy integration and consumption.
 
 ## CVE Data Source
@@ -10,7 +8,7 @@ The CVE data is sourced directly from the National Vulnerability Database (NVD),
 
 ## Accessing CVE Data
 
-The CVE data is available in JSON format and can be accessed through the web version of this repository at [https://justakazh.co](https://justakazh.co). The JSON files are structured for easy parsing and integration into your security processes.
+The CVE data is available in JSON format and can be accessed through the web version of this repository at [https://justakazh.co/cve](https://justakazh.co/cve). The JSON files are structured for easy parsing and integration into your security processes.
 
 ## Usage
 
