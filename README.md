@@ -6,10 +6,6 @@ This repository contains a regularly updated list of Common Vulnerabilities and 
 
 The CVE data is sourced directly from the National Vulnerability Database (NVD), ensuring that you have access to the latest information on security vulnerabilities.
 
-## Accessing CVE Data
-
-The CVE data is available in JSON format and can be accessed through the web version of this repository at [https://justakazh.co/cve](https://justakazh.co/cve). The JSON files are structured for easy parsing and integration into your security processes.
-
 ## Usage
 
 Feel free to use the CVE data in this repository for various purposes such as vulnerability analysis, threat intelligence, or any other security-related tasks. Make sure to stay updated with the latest CVEs to enhance the security posture of your applications and systems.
@@ -23,4 +19,3 @@ If you find any issues with the data or have suggestions for improvement, please
 Please note that while this repository provides valuable information about CVEs, it is essential to cross-verify and validate the data for your specific use case. The maintainers of this repository are not responsible for any consequences resulting from the use of the provided CVE data.
 
 Happy coding and stay secure!
-
